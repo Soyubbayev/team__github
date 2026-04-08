@@ -125,3 +125,58 @@ select{
 .first{
   margin-bottom: 60px;
 }
+
+.pilot{
+  width: 100%;
+  height: 100vh;
+  padding-left: 190px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.pilot__img--img{
+  width: 560px;
+  height: 372px;
+
+}
+
+.pilot__text{
+  width: 600px;
+
+}
+.pilot__text--title{
+   font-family: "Poppins", sans-serif;
+   font-weight: 600;
+   font-size: 24px;
+}
+.pilot__text--subtitle{
+   font-family: "Poppins", sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   color: #15151599;
+}
+.air{
+    width: 100%;
+  height: 100vh;
+  padding-right: 190px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.air__img{
+   width: 560px;
+  height: 372px;
+}
+.air__text{
+    width: 600px;
+}
+.air__text--title{
+   font-family: "Poppins", sans-serif;
+   font-weight: 600;
+   font-size: 24px;
+}
+.air__text--subtitle{
+   font-family: "Poppins", sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   color: #15151599;}
